@@ -25,13 +25,14 @@ body{
   padding: 20px 10px 20px 10px;
   text-decoration: none;
   font-size:25px;
-  color:  #818181;
+  font-family: 'Raleway', sans-serif;
+  color: white;
   display: block;
 
 }
 
 .sidenav a:hover{
-  color:#f1f1f1;
+  color:grey;
 
 }
 
